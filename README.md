@@ -1,7 +1,7 @@
 # Lenta Catalog Parser (chromedp + Remote Chrome)
 
 Мини программка для парсинга каталога товаров сети **«Лента»** через уже запущенный браузер Chrome по протоколу DevTools.  
-Посде обработки сохраняются результаты в `products.json` и `products.csv`. 
+Посде обработки сохраняются результаты в `products.json`. 
 
 ---
 
@@ -15,15 +15,14 @@
   - цены (с `₽`),
   - ссылки на карточку товара.  
   - Выгрузка данных в:
-  - `products.json`,
-  - `products.csv`.
+  - `products.json`.
 
 ---
 
 ### Модуль и зависимости
 
 ```bash
-go mod init lenta-parser
+go mod init test-lenta
 go get github.com/chromedp/chromedp
 go get github.com/chromedp/cdproto/network
 ```
