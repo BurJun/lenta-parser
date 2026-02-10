@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"encoding/csv"
 	"encoding/json"
 	"fmt"
 	"log"
@@ -170,15 +169,6 @@ func main() {
 	if len(products) > 0 {
 		data, _ := json.MarshalIndent(products, "", " ")
 		os.WriteFile("products.json", data, 0644)
-
-		f, _ := os.Create("products.csv")
-		defer f.Close()
-		w := csv.NewWriter(f)
-		w.Write([]string{"Name", "Price", "URL"})
-		for _, p := range products {
-			w.Write([]string{p.Name, p.Price, p.URL})
-		}
-		w.Flush()
 		fmt.Printf("\n🎉 Успешно! %d товаров сохранено.\n", len(products))
 	} else {
 		fmt.Println("\n!!! Товары не найдены!!!")
