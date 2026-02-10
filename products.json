@@ -1,0 +1,802 @@
+[
+ {
+  "name": "Яйцо куриное ОКСКОЕ СО",
+  "price": "129,99 ₽",
+  "url": "https://lenta.com/product/yajjco-kurinoe-so-rossiya-10sht-127515/"
+ },
+ {
+  "name": "Яйцо куриное ОКСКОЕ С1",
+  "price": "136,89 ₽",
+  "url": "https://lenta.com/product/yajjco-kurinoe-s1-rossiya-10sht-139201/"
+ },
+ {
+  "name": "Сметана ПРОСТОКВАШИНО 15%, без змж",
+  "price": "104,99 ₽",
+  "url": "https://lenta.com/product/smetana-15-bez-zmzh-rossiya-300g-578977/"
+ },
+ {
+  "name": "Сметана ДОМИК В ДЕРЕВНЕ 15%, без змж",
+  "price": "110,59 ₽",
+  "url": "https://lenta.com/product/smetana-15-mst-bez-zmzh-rossiya-300g-463130/"
+ },
+ {
+  "name": "Закваска для кефира VIVO, без змж, 4x0",
+  "price": "84,99 ₽",
+  "url": "https://lenta.com/product/zakvaska-dlya-kefira-bez-zmzh-rossiya-405g-433727/"
+ },
+ {
+  "name": "Масло сливочное ЭКОНИВА Традиционное 82,5%, без змж",
+  "price": "121,09 ₽",
+  "url": "https://lenta.com/product/maslo-slivochnoe-tradicionnoe-825-bez-zmzh-rossiya-180g-583114/"
+ },
+ {
+  "name": "Подарочный набор PLAY ME Любимые герои Шоколадные шарики, без змж",
+  "price": "84,99 ₽",
+  "url": "https://lenta.com/product/podarochnyjj-nabor-shokoladnye-shariki-lyubimye-geroi-bez-zmzh-rossiya-50g-581281/"
+ },
+ {
+  "name": "Сметана ПРОСТОКВАШИНО 20%, без змж",
+  "price": "147,36 ₽",
+  "url": "https://lenta.com/product/smetana-20-bez-zmzh-rossiya-300g-579543/"
+ },
+ {
+  "name": "Напиток безалкогольный ЭКОНАД Стройность, на молочной сыворотке с натуральным экстрактом Саган Дайля",
+  "price": "299,99 ₽",
+  "url": "https://lenta.com/product/napitok-bezalkogolnyjj-strojjnost-na-mol-syv-s-nat-ekstrak-sagan-dajjlya-srg-rossiya-330ml-749059/"
+ },
+ {
+  "name": "Яйцо куриное 365 ДНЕЙ СО",
+  "price": "389,47 ₽",
+  "url": "https://lenta.com/product/yajjco-kurinoe-s0-rossiya-10sht-674564/"
+ },
+ {
+  "name": "Сметана ВКУСНОТЕЕВО 20%, без змж",
+  "price": "189,99 ₽",
+  "url": "https://lenta.com/product/smetana-200-bez-zmzh-rossiya-300g-435780/"
+ },
+ {
+  "name": "Подарочный набор для мальчика PLAY ME Шоколадные шарики, без змж",
+  "price": "368,42 ₽",
+  "url": "https://lenta.com/product/podarochnyjj-nabor-shokoladnye-shariki-dlya-malchikov-bez-zmzh-rossiya-50g-581186/"
+ },
+ {
+  "name": "Молоко пастеризованное ЛЕНТА 3,2%, без змж",
+  "price": "149,99 ₽",
+  "url": "https://lenta.com/product/moloko-pasterizovannoe-32-pet-bez-zmzh-rossiya-900ml-671968/"
+ },
+ {
+  "name": "Масло сливочное БРЕСТ-ЛИТОВСК 82,5%, без змж",
+  "price": "178,99 ₽",
+  "url": "https://lenta.com/product/maslo-slivochnoe-brest-litovskoe-825-bez-zmzh-belarus-180g-253387/"
+ },
+ {
+  "name": "Подарочный набор для девочки PLAY ME Шоколадные шарики для молочного завтрака, без змж",
+  "price": "104,99 ₽",
+  "url": "https://lenta.com/product/podarochnyjj-nabor-shokolad-shariki-dmoloch-zavtraka-dlya-devochek-bez-zmzh-rossiya-50g-552512/"
+ },
+ {
+  "name": "Напиток ЭКОНАД на основе молочной сыворотки с натуральным экстрактом липы, среднегазированный",
+  "price": "157,89 ₽",
+  "url": "https://lenta.com/product/napitok-ba-na-osn-mol-syv-s-nat-ekstraktom-lipy-srgaz-rossiya-330ml-794210/"
+ },
+ {
+  "name": "Продукт творожный ДАНИССИМО Браво с изысканным шоколадом 6,7%, без змж",
+  "price": "119,99 ₽",
+  "url": "https://lenta.com/product/produkt-tvorozhnyjj-bravo-s-shokoladom-67-bez-zmzh-rossiya-130g-022885/"
+ },
+ {
+  "name": "Коктейль мороженое БОГДАША Клубничный пломбир 1,5%, без змж",
+  "price": "157,89 ₽",
+  "url": "https://lenta.com/product/koktejjl-morozhenoe-klubnichnyjj-plombir-15-bez-zmzh-rossiya-900g-743874/"
+ },
+ {
+  "name": "Сгущенка овсяная SAMUI",
+  "price": "80,99 ₽",
+  "url": "https://lenta.com/product/sgushchenka-ovsyanaya-tailand-200g-713004/"
+ },
+ {
+  "name": "Молоко ультрапастеризованное СЕВЕРНАЯ ДОЛИНА 3,2%, без змж",
+  "price": "85,29 ₽",
+  "url": "https://lenta.com/product/moloko-upast-32-tbaslim-bez-zmzh-rossiya-950g-222707/"
+ },
+ {
+  "name": "Масса творожная РОСТАГРОЭКСПОРТ Особая с изюмом 23%, без змж",
+  "price": "99,99 ₽",
+  "url": "https://lenta.com/product/massa-tvorozhnaya-osobaya-23-s-izyumom-bez-zmzh-rossiya-180g-260664/"
+ },
+ {
+  "name": "Яйцо куриное РОСКАР Экстра СО столовое",
+  "price": "157,89 ₽",
+  "url": "https://lenta.com/product/yajjco-kurinoe-stolovoe-ekstra-s0-rossiya-10sht-025080/"
+ },
+ {
+  "name": "Напиток растительный ультрапастеризованный TAKE A BITE Шоколад",
+  "price": "149,99 ₽",
+  "url": "https://lenta.com/product/napitok-rastitelnyjj-shokolad-ultrapasterizovannyjj-rossiya-1000ml-729094/"
+ },
+ {
+  "name": "Масло сливочное ВКУСНОТЕЕВО Традиционное 82,5%, без змж",
+  "price": "178,99 ₽",
+  "url": "https://lenta.com/product/maslo-slivochnoe-tradicionnoe-825-bez-zmzh-rossiya-180g-743324/"
+ },
+ {
+  "name": "Сырок творожный глазированный РОСТАГРОЭКСПОРТ с вареной сгущенкой 15%, c змж",
+  "price": "87,99 ₽",
+  "url": "https://lenta.com/product/syrok-glazirovannyjj-tvor-s-varenojj-sgushchenkojj-15-floupak-s-zmzh-rossiya-45g-486279/"
+ },
+ {
+  "name": "Молоко пастеризованное ДОМИК В ДЕРЕВНЕ 2,5%, без змж",
+  "price": "111,59 ₽",
+  "url": "https://lenta.com/product/moloko-past-25-bez-zmzh-rossiya-930ml-179799/"
+ },
+ {
+  "name": "Сырок творожный глазированный РОСТАГРОЭКСПОРТ с ванилином 20%, без змж",
+  "price": "199,99 ₽",
+  "url": "https://lenta.com/product/syrok-glazirovannyjj-tvors-vanilinom-20-floupak-bez-zmzh-rossiya-45g-486278/"
+ },
+ {
+  "name": "Творог ИСКРЕННЕ ВАШ 5%, без змж",
+  "price": "322,19 ₽",
+  "url": "https://lenta.com/product/tvorog-5-bez-zmzh-rossiya-180g-539860/"
+ },
+ {
+  "name": "Коктейль молочный БЕЛЫЙ ГОРОД Ваниль 1,5%, без змж",
+  "price": "149,99 ₽",
+  "url": "https://lenta.com/product/koktejjl-molochnyjj-upast-s-aromatom-vanili-15-bez-zmzh-rossiya-200g-307921/"
+ },
+ {
+  "name": "Яйцо куриное ЛЕНТА СО",
+  "price": "178,99 ₽",
+  "url": "https://lenta.com/product/yajjco-kurinoe-s0-rossiya-30sht-736679/"
+ },
+ {
+  "name": "Напиток растительный пастеризованный TAKE A BITE Соевый",
+  "price": "119,99 ₽",
+  "url": "https://lenta.com/product/napitok-soevyjj-pasterizovannyjj-rossiya-1000ml-469922/"
+ },
+ {
+  "name": "Творог детский АГУША Первая ложка Классический 4,5%, с 6 месяцев, без змж",
+  "price": "157,89 ₽",
+  "url": "https://lenta.com/product/tvorog-detskijj-klassicheskijj-s-6-mes-45-bez-zmzh-rossiya-100g-081092/"
+ },
+ {
+  "name": "Пирожное бисквитное KINDER Молочный ломтик с молочной начинкой",
+  "price": "49,99 ₽",
+  "url": "https://lenta.com/product/pirozhnoe-molochnyjj-lomtik-biskvitnoe-s-molochnojj-nachinkojj-germaniya-28g-059568/"
+ },
+ {
+  "name": "Закваска САМОКВАШИНО Биокефир Домашний, без змж",
+  "price": "79,99 ₽",
+  "url": "https://lenta.com/product/zakvaska-biokefir-domashnijj-sashe-bez-zmzh-rossiya-2g-647303/"
+ },
+ {
+  "name": "Напиток растительный пастеризованный TAKE A BITE Овсяный",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/napitok-ovsyanyjj-pasterizovannyjj-rossiya-1000ml-469924/"
+ },
+ {
+  "name": "Молоко пастеризованное ПРОСТОКВАШИНО 3,2%, без змж",
+  "price": "210,59 ₽",
+  "url": "https://lenta.com/product/moloko-past-32-bez-zmzh-rossiya-1400ml-670751/"
+ },
+ {
+  "name": "Продукт йогуртный НЕЖНЫЙ Легкий с соком персика 0,1%, без змж",
+  "price": "244,99 ₽",
+  "url": "https://lenta.com/product/produkt-jjogurtnyjj-past-legkijj-01-s-sokom-persika-bez-zmzh-rossiya-95g-495901/"
+ },
+ {
+  "name": "Подарочный набор детский КОНФИТРЕЙД Трубочки для молока Малина, клубника, карамель, без змж",
+  "price": "294,79 ₽",
+  "url": "https://lenta.com/product/podarochnyjj-nabor-trubochki-dmol-malinaklubkaramel-bez-zmzh-rossiya-18g-552426/"
+ },
+ {
+  "name": "Молоко ультрапастеризованное ЭКОНИВА 3,2%, без змж",
+  "price": "89,99 ₽",
+  "url": "https://lenta.com/product/moloko-upaster-32-bez-zmzh-rossiya-1000ml-512875/"
+ },
+ {
+  "name": "Творог ПРОСТОКВАШИНО 5%, без змж",
+  "price": "122,19 ₽",
+  "url": "https://lenta.com/product/tvorog-5-bez-zmzh-rossiya-200g-579608/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "149,99 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-krupnye-bk-ispaniya-370ml-382846/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-bk-belarus-300314ml-388155/"
+ },
+ {
+  "name": "Оливки без косточки БОНДЮЭЛЬ",
+  "price": "101,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-bk-ispaniya-314ml-119127/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "107,39 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-bk-ispaniya-300314ml-388153/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "159,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-krupnye-bk-belarus-370ml-382859/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "263,15 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirovannye-c-limonom-zhb-ispaniya-280g-722959/"
+ },
+ {
+  "name": "Оливки с лимоном БОНДЮЭЛЬ",
+  "price": "86,99 ₽",
+  "url": "https://lenta.com/product/olivki-mansanilya-s-limonom-ispaniya-300g-492777/"
+ },
+ {
+  "name": "Оливки без косточки ITLV зеленые",
+  "price": "91,59 ₽",
+  "url": "https://lenta.com/product/olivki-bk-zelenye-klyuch-ispaniya-300g-007462/"
+ },
+ {
+  "name": "Оливки с лимоном ITLV",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/olivki-s-limonom-klyuch-ispaniya-300g-007466/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Selecto",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/masliny-selecto-bk-ispaniya-170g-230030/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "99,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirov-c-anchousom-zhb-ispaniya-280g-722946/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Selecto черные",
+  "price": "105,29 ₽",
+  "url": "https://lenta.com/product/masliny-selecto-chernye-bk-klyuch-ispaniya-350g-192610/"
+ },
+ {
+  "name": "Смесь оливок и маслин с косточкой DOLCE ALBERO с травами, чили и чесноком",
+  "price": "174,99 ₽",
+  "url": "https://lenta.com/product/smes-maslin-i-olivok-s-travami-chili-i-chesnokom-sk-greciya-150g-526880/"
+ },
+ {
+  "name": "Маслины без косточки BONVIDA целые",
+  "price": "263,15 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-celye-bk-st-ispaniya-965ml-543872/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "199,99 ₽",
+  "url": "https://lenta.com/product/olivki-farshirovannye-limonom-ispaniya-314ml-508808/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Clasico",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/masliny-clasico-bk-ispaniya-314ml-147992/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Super черные",
+  "price": "204,99 ₽",
+  "url": "https://lenta.com/product/masliny-super-chernye-bk-klyuch-ispaniya-350g-009464/"
+ },
+ {
+  "name": "Оливки с косточкой DOLCE ALBERO зеленые крупные",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-krupnye-s-kostochkojj-greciya-350g-515510/"
+ },
+ {
+  "name": "Оливки с креветками ITLV зеленые",
+  "price": "144,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-s-krevetkami-klyuch-ispaniya-300g-445561/"
+ },
+ {
+  "name": "Маслины без косточки BOTANICA целые",
+  "price": "210,52 ₽",
+  "url": "https://lenta.com/product/masliny-bez-kostochek-celye-konserv-zhb-ispaniya-300ml-716104/"
+ },
+ {
+  "name": "Маслины с копченым лососем БОНДЮЭЛЬ",
+  "price": "79,99 ₽",
+  "url": "https://lenta.com/product/masliny-ohiblanka-farshirovannye-kopchenym-lososem-ispaniya-300g-597297/"
+ },
+ {
+  "name": "Маслины без косточки DOLCE ALBERO сорт Каламата",
+  "price": "84,29 ₽",
+  "url": "https://lenta.com/product/masliny-sorta-kalamata-bez-kostochki-greciya-350g-515485/"
+ },
+ {
+  "name": "Оливки без косточки ITLV Королевские зеленые",
+  "price": "189,99 ₽",
+  "url": "https://lenta.com/product/olivki-korolevskie-zelenye-marinovannye-bk-st-ispaniya-370g-546622/"
+ },
+ {
+  "name": "Оливки с лососем ITLV зеленые",
+  "price": "231,59 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-s-lososem-klyuch-ispaniya-300g-347117/"
+ },
+ {
+  "name": "Маслины с косточкой DOLCE ALBERO сорт Каламата",
+  "price": "204,99 ₽",
+  "url": "https://lenta.com/product/masliny-sorta-kalamata-s-kostochkojj-greciya-350g-515504/"
+ },
+ {
+  "name": "Маслины с косточкой БОНДЮЭЛЬ",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-sk-ispaniya-314ml-119125/"
+ },
+ {
+  "name": "Оливки с анчоусом ITLV",
+  "price": "479,99 ₽",
+  "url": "https://lenta.com/product/olivki-s-anchousami-klyuch-ispaniya-300g-007464/"
+ },
+ {
+  "name": "Маслины с косточкой DOLCE ALBERO с травами, сорт Каламата",
+  "price": "631,59 ₽",
+  "url": "https://lenta.com/product/masliny-kalamata-s-travami-sk-greciya-150g-526901/"
+ },
+ {
+  "name": "Маслины без косточки SUNAN черные",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/masliny-chjrnye-bk-turciya-280g-670061/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/olivki-farshirovannye-anchousom-ispaniya-314ml-508805/"
+ },
+ {
+  "name": "Маслины вяленые с косточкой DOLCE ALBERO сорт Каламата",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/masliny-sorta-kalamata-vyalenye-c-kostochkojj-greciya-370ml-534884/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "242,19 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-krupnye-sk-ispaniya-370ml-382847/"
+ },
+ {
+  "name": "Оливки без косточки BOTANICA целые",
+  "price": "229,99 ₽",
+  "url": "https://lenta.com/product/olivki-bez-kostochek-celye-konserv-zhb-ispaniya-300ml-716103/"
+ },
+ {
+  "name": "Оливки с косточкой DOLCE ALBERO с травами и чесноком, Арт. 39",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/olivki-s-travami-i-chesnokom-sk-39-greciya-150g-526786/"
+ },
+ {
+  "name": "Оливки с косточкой БОНДЮЭЛЬ",
+  "price": "219,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-sk-ispaniya-314ml-119128/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "278,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirovannye-s-krevetkami-ispaniya-314ml-584265/"
+ },
+ {
+  "name": "Оливки без косточки ITLV Королевские",
+  "price": "184,99 ₽",
+  "url": "https://lenta.com/product/olivki-korolevskie-zelenye-bk-st-ispaniya-370ml-558645/"
+ },
+ {
+  "name": "Оливки с косточкой ITLV зеленые",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-sk-ispaniya-195g-206098/"
+ },
+ {
+  "name": "Оливки с чесноком DOLCE ALBERO зеленые",
+  "price": "139,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirovannye-chesnokom-greciya-350g-515511/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "199,99 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-sk-belarus-300314ml-388156/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "174,99 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-krupnye-bk-ispaniya-370ml-382846/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "263,19 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-bk-belarus-300314ml-388155/"
+ },
+ {
+  "name": "Оливки без косточки БОНДЮЭЛЬ",
+  "price": "275,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-bk-ispaniya-314ml-119127/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "315,79 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-bk-ispaniya-300314ml-388153/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "316,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-krupnye-bk-belarus-370ml-382859/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "421,09 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirovannye-c-limonom-zhb-ispaniya-280g-722959/"
+ },
+ {
+  "name": "Оливки с лимоном БОНДЮЭЛЬ",
+  "price": "184,99 ₽",
+  "url": "https://lenta.com/product/olivki-mansanilya-s-limonom-ispaniya-300g-492777/"
+ },
+ {
+  "name": "Оливки без косточки ITLV зеленые",
+  "price": "231,57 ₽",
+  "url": "https://lenta.com/product/olivki-bk-zelenye-klyuch-ispaniya-300g-007462/"
+ },
+ {
+  "name": "Оливки с лимоном ITLV",
+  "price": "234,99 ₽",
+  "url": "https://lenta.com/product/olivki-s-limonom-klyuch-ispaniya-300g-007466/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Selecto",
+  "price": "315,79 ₽",
+  "url": "https://lenta.com/product/masliny-selecto-bk-ispaniya-170g-230030/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirov-c-anchousom-zhb-ispaniya-280g-722946/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Selecto черные",
+  "price": "226,39 ₽",
+  "url": "https://lenta.com/product/masliny-selecto-chernye-bk-klyuch-ispaniya-350g-192610/"
+ },
+ {
+  "name": "Смесь оливок и маслин с косточкой DOLCE ALBERO с травами, чили и чесноком",
+  "price": "184,99 ₽",
+  "url": "https://lenta.com/product/smes-maslin-i-olivok-s-travami-chili-i-chesnokom-sk-greciya-150g-526880/"
+ },
+ {
+  "name": "Маслины без косточки BONVIDA целые",
+  "price": "278,99 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-celye-bk-st-ispaniya-965ml-543872/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "159,99 ₽",
+  "url": "https://lenta.com/product/olivki-farshirovannye-limonom-ispaniya-314ml-508808/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Clasico",
+  "price": "242,19 ₽",
+  "url": "https://lenta.com/product/masliny-clasico-bk-ispaniya-314ml-147992/"
+ },
+ {
+  "name": "Маслины без косточки ITLV Super черные",
+  "price": "124,99 ₽",
+  "url": "https://lenta.com/product/masliny-super-chernye-bk-klyuch-ispaniya-350g-009464/"
+ },
+ {
+  "name": "Оливки с косточкой DOLCE ALBERO зеленые крупные",
+  "price": "157,89 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-krupnye-s-kostochkojj-greciya-350g-515510/"
+ },
+ {
+  "name": "Оливки с креветками ITLV зеленые",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-s-krevetkami-klyuch-ispaniya-300g-445561/"
+ },
+ {
+  "name": "Маслины без косточки BOTANICA целые",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/masliny-bez-kostochek-celye-konserv-zhb-ispaniya-300ml-716104/"
+ },
+ {
+  "name": "Маслины с копченым лососем БОНДЮЭЛЬ",
+  "price": "299,99 ₽",
+  "url": "https://lenta.com/product/masliny-ohiblanka-farshirovannye-kopchenym-lososem-ispaniya-300g-597297/"
+ },
+ {
+  "name": "Маслины без косточки DOLCE ALBERO сорт Каламата",
+  "price": "399,99 ₽",
+  "url": "https://lenta.com/product/masliny-sorta-kalamata-bez-kostochki-greciya-350g-515485/"
+ },
+ {
+  "name": "Оливки без косточки ITLV Королевские зеленые",
+  "price": "129,99 ₽",
+  "url": "https://lenta.com/product/olivki-korolevskie-zelenye-marinovannye-bk-st-ispaniya-370g-546622/"
+ },
+ {
+  "name": "Оливки с лососем ITLV зеленые",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-s-lososem-klyuch-ispaniya-300g-347117/"
+ },
+ {
+  "name": "Маслины с косточкой DOLCE ALBERO сорт Каламата",
+  "price": "143,99 ₽",
+  "url": "https://lenta.com/product/masliny-sorta-kalamata-s-kostochkojj-greciya-350g-515504/"
+ },
+ {
+  "name": "Маслины с косточкой БОНДЮЭЛЬ",
+  "price": "151,57 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-sk-ispaniya-314ml-119125/"
+ },
+ {
+  "name": "Оливки с анчоусом ITLV",
+  "price": "159,99 ₽",
+  "url": "https://lenta.com/product/olivki-s-anchousami-klyuch-ispaniya-300g-007464/"
+ },
+ {
+  "name": "Маслины с косточкой DOLCE ALBERO с травами, сорт Каламата",
+  "price": "247,39 ₽",
+  "url": "https://lenta.com/product/masliny-kalamata-s-travami-sk-greciya-150g-526901/"
+ },
+ {
+  "name": "Маслины без косточки SUNAN черные",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/masliny-chjrnye-bk-turciya-280g-670061/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/olivki-farshirovannye-anchousom-ispaniya-314ml-508805/"
+ },
+ {
+  "name": "Маслины вяленые с косточкой DOLCE ALBERO сорт Каламата",
+  "price": "129,99 ₽",
+  "url": "https://lenta.com/product/masliny-sorta-kalamata-vyalenye-c-kostochkojj-greciya-370ml-534884/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-krupnye-sk-ispaniya-370ml-382847/"
+ },
+ {
+  "name": "Оливки без косточки BOTANICA целые",
+  "price": "316,99 ₽",
+  "url": "https://lenta.com/product/olivki-bez-kostochek-celye-konserv-zhb-ispaniya-300ml-716103/"
+ },
+ {
+  "name": "Оливки с косточкой DOLCE ALBERO с травами и чесноком, Арт. 39",
+  "price": "421,09 ₽",
+  "url": "https://lenta.com/product/olivki-s-travami-i-chesnokom-sk-39-greciya-150g-526786/"
+ },
+ {
+  "name": "Оливки с косточкой БОНДЮЭЛЬ",
+  "price": "101,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-sk-ispaniya-314ml-119128/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "126,39 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirovannye-s-krevetkami-ispaniya-314ml-584265/"
+ },
+ {
+  "name": "Оливки без косточки ITLV Королевские",
+  "price": "295,99 ₽",
+  "url": "https://lenta.com/product/olivki-korolevskie-zelenye-bk-st-ispaniya-370ml-558645/"
+ },
+ {
+  "name": "Оливки с косточкой ITLV зеленые",
+  "price": "389,49 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-sk-ispaniya-195g-206098/"
+ },
+ {
+  "name": "Оливки с чесноком DOLCE ALBERO зеленые",
+  "price": "101,99 ₽",
+  "url": "https://lenta.com/product/olivki-zelenye-farshirovannye-chesnokom-greciya-350g-515511/"
+ },
+ {
+  "name": "Доп.скидка 10%",
+  "price": "107,39 ₽",
+  "url": "https://lenta.com/product/masliny-chernye-sk-belarus-300314ml-388156/"
+ },
+ {
+  "name": "Сыр SCHONFELD Альпийский 45–65%, без змж, весовой",
+  "price": "149,99 ₽",
+  "url": "https://lenta.com/product/syr-alpijjskijj-45-65-kusok-bez-zmzh-ves-rossiya-742227/"
+ },
+ {
+  "name": "Сыр БРЕСТ-ЛИТОВСК Сливочный 50%, без змж",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/syr-slivochnyjj-50-fas-bez-zmzh-belarus-200g-299164/"
+ },
+ {
+  "name": "Сыр DOLCE Platinum Пармезан 40%, без змж, весовой",
+  "price": "101,99 ₽",
+  "url": "https://lenta.com/product/syr-platinum-parmezan-40-ves-bez-zmzh-rossiya-704148/"
+ },
+ {
+  "name": "Сыр NATURA Сливочный 45%, без змж",
+  "price": "107,39 ₽",
+  "url": "https://lenta.com/product/syr-slivochnyjj-45-bez-zmzh-rossiya-400g-680598/"
+ },
+ {
+  "name": "Сыр полутвердый ЛАМБЕР 50%, без змж, весовой",
+  "price": "159,99 ₽",
+  "url": "https://lenta.com/product/syr-polutverdyjj-50-ves-bez-zmzh-rossiya-029772/"
+ },
+ {
+  "name": "Сыр твердый EXCELSIOR Formaggio с козьим молоком 45%, без змж, весовой",
+  "price": "263,15 ₽",
+  "url": "https://lenta.com/product/syr-formaggio-s-kozim-molokom-tverdyjj-45-bez-zmzh-ves-rossiya-746442/"
+ },
+ {
+  "name": "Сыр БРЕСТ-ЛИТОВСК Легкий 35%, без змж",
+  "price": "86,99 ₽",
+  "url": "https://lenta.com/product/syr-legkijj-35-fas-bez-zmzh-belarus-200g-299179/"
+ },
+ {
+  "name": "Сыр БРЫКИН БОР Качотта 40%, без змж, весовой",
+  "price": "91,59 ₽",
+  "url": "https://lenta.com/product/syr-kachotta-40-bez-zmzh-ves-rossiya-694611/"
+ },
+ {
+  "name": "Сыр твердый ЛИПИН БОР Манчего Дель Руссо 50%, 3 месяца, без змж",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/syr-manchego-del-russo3-mesyaca-50-bez-zmzh-rossiya-180g-564846/"
+ },
+ {
+  "name": "Сыр творожный HOCHLAND сливочный 60%, без змж",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/syr-tvorozhnyjj-slivochnyjj-60-bez-zmzh-rossiya-220g-346737/"
+ },
+ {
+  "name": "Сыр полутвердый ЛЕНТА Сливочный 45%, без змж, весовой",
+  "price": "99,99 ₽",
+  "url": "https://lenta.com/product/syr-polutverdyjj-slivochnyjj-45-bez-zmzh-ves-rossiya-568331/"
+ },
+ {
+  "name": "Продукт рассольный комбинированный СИРТАКИ Original Для греческого салата 55%",
+  "price": "105,29 ₽",
+  "url": "https://lenta.com/product/produkt-kombinir-rassol-smesh-sostava-original-55-rossiya-200g-369230/"
+ },
+ {
+  "name": "Сыр полутвердый ЕСТЕСТВЕННО Ассорти сыров Легкий Для нее 20% и Сливочный Для него 45%, нарезка, без змж",
+  "price": "174,99 ₽",
+  "url": "https://lenta.com/product/assorti-syrov-ptv-legkijj-dlya-nee-i-slivochnyjj-dlya-nego-2045-bez-zmzh-rossiya-290g-774171/"
+ },
+ {
+  "name": "Продукт белковый РОССОЯ Тофу паприка",
+  "price": "263,15 ₽",
+  "url": "https://lenta.com/product/produkt-belkovyjj-tofu-paprika-rossiya-120g-458127/"
+ },
+ {
+  "name": "Сыр МЗ ГИАГИНСКИЙ Спагетти 40%, без змж",
+  "price": "199,99 ₽",
+  "url": "https://lenta.com/product/syr-spagetti-40-bez-zmzh-rossiya-80g-564539/"
+ },
+ {
+  "name": "Сыр полутвердый ЕСТЕСТВЕННО Ассорти Сливочный/с оливками и томатами 45%, без змж",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/syr-ptv-assorti-slivochnyjjs-olivkami-i-tomatami-bez-zmzh-rossiya-290g-751977/"
+ },
+ {
+  "name": "Сыр твердый ЛИПИН БОР Грюйер Старовологодский 50%, 6 месяцев, без змж",
+  "price": "204,99 ₽",
+  "url": "https://lenta.com/product/syr-gryujjer-starovologodskijj-zrelyjj-6-mesyacev-50-bez-zmzh-rossiya-180g-564891/"
+ },
+ {
+  "name": "Сыр плавленый КАРАТ Дружба 45%, без змж",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/syr-plavlenyjj-druzhba-45-bez-zmzh-rossiya-90g-079836/"
+ },
+ {
+  "name": "Сыр твердый BURENKA CLUB Марсенталь Арабеск из козьего молока 50%, без змж",
+  "price": "144,99 ₽",
+  "url": "https://lenta.com/product/syr-tverdyjj-marsental-arabesk-iz-kozego-moloka-50-bez-zmzh-rossiya-125g-675224/"
+ },
+ {
+  "name": "Сыр творожный ЭКОМИЛК 60%, без змж",
+  "price": "210,52 ₽",
+  "url": "https://lenta.com/product/syr-tvorozhnyjj-60-bez-zmzh-rossiya-350g-736646/"
+ },
+ {
+  "name": "Сыр мягкий SCHONFELD Camembert Gourmet с белой плесенью 55%, без змж",
+  "price": "79,99 ₽",
+  "url": "https://lenta.com/product/syr-myagkijj-s-belojj-plesenyu-camembert-gourmet-55-bez-zmzh-rossiya-125g-882396/"
+ },
+ {
+  "name": "Сыр полутвердый ИСТРИНСКАЯ СЫРОВАРНЯ ОЛЕГА СИРОТЫ Ремесленный 50%, без змж, весовой",
+  "price": "84,29 ₽",
+  "url": "https://lenta.com/product/syr-ptv-remeslennyjj-50-vu-bez-zmzh-ves-rossiya-739448/"
+ },
+ {
+  "name": "Сыр мягкий SCHONFELD Brie с белой плесенью 45%, без змж",
+  "price": "189,99 ₽",
+  "url": "https://lenta.com/product/syr-myagkijj-s-belojj-plesenyu-brie-45-bez-zmzh-rossiya-125g-882397/"
+ },
+ {
+  "name": "Сыр рассольный мягкий BURENKA CLUB Сербская брынза 45%, без змж",
+  "price": "231,59 ₽",
+  "url": "https://lenta.com/product/syr-serbskaya-brynza-myagkijj-rassolnyjj-45-bez-zmzh-serbiya-990g-751974/"
+ },
+ {
+  "name": "Сыр УМАЛАТ Четук 45%, без змж",
+  "price": "204,99 ₽",
+  "url": "https://lenta.com/product/syr-chetuk-45-bez-zmzh-rossiya-280g-737723/"
+ },
+ {
+  "name": "Сыр мягкий CHEF WORKS 40%, без змж",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/syr-myagkijj-40-bez-zmzh-belarus-800g-792625/"
+ },
+ {
+  "name": "Сыр ЛЕНТА FRESH Лапландский с курагой и изюмом 45%, без змж",
+  "price": "479,99 ₽",
+  "url": "https://lenta.com/product/syr-laplandskijj-s-kuragojj-i-izyumom-45-bez-zmzh-rossiya-180g-879918/"
+ },
+ {
+  "name": "Сыр мягкий НЕНАШЕВО Камамбер с луком Шалот 55%, без змж, весовой",
+  "price": "631,59 ₽",
+  "url": "https://lenta.com/product/syr-myagkijj-kamamber-s-lukom-shalot-55-bez-zmzh-ves-rossiya-703250/"
+ },
+ {
+  "name": "Сыр PRETTO Моцарелла 45%, кубики, без змж",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/syr-mocarella-kubiki-45-bez-zmzh-rossiya-1000g-862300/"
+ },
+ {
+  "name": "Сыр ДОЛИНА ЛЕГЕНД Крымчанин с трюфелем 50%, без змж",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/syr-krymchanin-s-tryufelem-50-bez-zmzh-rossiya-130g-722647/"
+ },
+ {
+  "name": "Сыр мягкий VITALAT Бри с трюфелем 60%, без змж",
+  "price": "169,99 ₽",
+  "url": "https://lenta.com/product/syr-myagkijj-bri-s-tryufelem-60-bez-zmzh-rossiya-180g-749897/"
+ },
+ {
+  "name": "Сыр творожный УМАЛАТ Рбили с хреном и чесноком 60%, без змж",
+  "price": "242,19 ₽",
+  "url": "https://lenta.com/product/syr-tvorozhnyjj-rbili-s-hrenom-i-chesnokom-60-bez-zmzh-rossiya-130g-738698/"
+ },
+ {
+  "name": "Сыр полутвердый РАДОСТЬ ВКУСА Маасдам 45%, без змж, весовой",
+  "price": "229,99 ₽",
+  "url": "https://lenta.com/product/syr-maasdam-ptv-45-bez-zmzh-ves-rossiya-746548/"
+ },
+ {
+  "name": "Сыр плавленый HOCHLAND Чизбургер порционный 45%, ломтики, без змж",
+  "price": "273,69 ₽",
+  "url": "https://lenta.com/product/syr-plavlenyjj-chizburger-45-lomtiki-bez-zmzh-rossiya-150g-121130/"
+ },
+ {
+  "name": "Сыр плавленый СЫРОБОГАТОВ Датский с копчеными колбасками 45%, без змж",
+  "price": "219,99 ₽",
+  "url": "https://lenta.com/product/syr-plavlenyjj-datskijj-s-kopchenymi-kolbaskami-45-vanna-bez-zmzh-rossiya-400g-713634/"
+ },
+ {
+  "name": "Продукт плавленый Сливочный с сыром 40%, с змж",
+  "price": "278,99 ₽",
+  "url": "https://lenta.com/product/produkt-plavlenyjj-s-syrom-slivochnyjj-40-s-zmzh-rossiya-70g-455619/"
+ },
+ {
+  "name": "Сыр ЗОЛОТО ЕВРОПЫ Маасдам 45%, без змж",
+  "price": "184,99 ₽",
+  "url": "https://lenta.com/product/syr-maasdam-45-bez-zmzh-rossiya-180g-717348/"
+ },
+ {
+  "name": "Сыр OLDENBURGER протеиновый с томатом и базиликом 30%, без змж",
+  "price": "221,09 ₽",
+  "url": "https://lenta.com/product/syr-proteinovyjj-s-tomatom-i-bazilikom-30-bez-zmzh-rossiya-150g-770179/"
+ },
+ {
+  "name": "Сыр твердый LAIME Пармезан 40%, 6 месяцев, без змж",
+  "price": "139,99 ₽",
+  "url": "https://lenta.com/product/syr-parmezan-6-mes-40-bez-zmzh-rossiya-175g-729484/"
+ },
+ {
+  "name": "Сыр BONFESTO Моцарелла мини 45%, без змж, вес сыра 80г, вес с рассолом 230г",
+  "price": "199,99 ₽",
+  "url": "https://lenta.com/product/syr-mocarella-v-rassole-mini-45-ves-syra-80g-bez-zmzh-belarus-230g-684952/"
+ }
+]
